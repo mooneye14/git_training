@@ -4,3 +4,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 New lines of text for feature work.
 
 New stuff for the 3rdd part. 
+
+New text to differentiate with Patrick Branch/commit.
